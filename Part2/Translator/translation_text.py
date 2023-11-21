@@ -2,6 +2,7 @@ import io
 import streamlit as st
 from transformers import pipeline
 
+
 @st.cache_resource
 #@st.cache_data
 # загружаю модель
