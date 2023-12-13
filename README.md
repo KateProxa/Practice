@@ -35,7 +35,7 @@ ___
     
     [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-en-ru)
 
-    [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Kate.py)
+    [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Vlad.py)
 
 ___
 
