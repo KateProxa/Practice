@@ -31,7 +31,7 @@ ___
 
   * Практика 1
     
-    [Блокнот](https://colab.research.google.com/drive/1QX9cPhLB3tBM-bvBZ84ZOP8GEAXUWH00?usp=sharing)
+    [Блокнот]()
     
     [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-en-ru)
 
