@@ -10,11 +10,11 @@
 
   * Практика 1
     
-    [Блокнот](https://colab.research.google.com/drive/1QX9cPhLB3tBM-bvBZ84ZOP8GEAXUWH00?usp=sharing)
+    [Блокнот]()
     
     [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-ru-fr)
 
-    [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Kate.py)
+    [Файл модели]()
     
   * Практика 2
 
@@ -29,6 +29,13 @@ ___
 
 * Телегинский Владислав Владиславович
 
+  * Практика 1
+    
+    [Блокнот](https://colab.research.google.com/drive/1QX9cPhLB3tBM-bvBZ84ZOP8GEAXUWH00?usp=sharing)
+    
+    [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-en-ru)
+
+    [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Kate.py)
 
 ___
 
