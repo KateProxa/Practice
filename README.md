@@ -21,6 +21,12 @@
     Web-приложение для перевода текста с русского языка на французский
 
     [Описание приложения](https://github.com/KateProxa/Practice/tree/main/Part2/Translator/)
+
+  * Практика 3
+ 
+    [Описание приложения](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/README.md)
+    
+    [Ссылка на приложение](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/)
 ___
 
 * Толстолуцкая Анастасия Васильевна
