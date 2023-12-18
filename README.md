@@ -8,24 +8,25 @@
 
 * Прохорова Екатерина Сергеевна
 
-  * Практика 1
+  * Практика 1 
+  
+    **Translator from ru to fr _model_**
     
-    [Блокнот](https://colab.research.google.com/drive/1QX9cPhLB3tBM-bvBZ84ZOP8GEAXUWH00?usp=sharing)
-    
-    [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-ru-fr)
-
+    [Блокнот](https://colab.research.google.com/drive/1QX9cPhLB3tBM-bvBZ84ZOP8GEAXUWH00?usp=sharing)  
+    [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-ru-fr)\
     [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Kate.py)
     
   * Практика 2
 
-    Web-приложение для перевода текста с русского языка на французский
-
+    **Translator from ru to fr _application_ (Web)**
+    
     [Описание приложения](https://github.com/KateProxa/Practice/tree/main/Part2/Translator/)
 
   * Практика 3
  
-    [Описание приложения](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/README.md)
-    
+    **Translator from ru to fr _application_ (API)**
+ 
+    [Описание приложения](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/README.md)\
     [Ссылка на приложение](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/)
 ___
 
