@@ -29,7 +29,7 @@
     [Описание приложения](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/README.md)\
     [Ссылка на приложение](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/)
 
-    * Практика 5
+  * Практика 5
 ___
 
 * Толстолуцкая Анастасия Васильевна
