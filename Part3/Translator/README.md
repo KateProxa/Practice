@@ -38,7 +38,7 @@
 1. Открыть в браузере страницу с документацией `http://127.0.0.1:8000/docs`
    ![1 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/1%20skrin.jpg)
 2. Открыть поле для ввода POST запроса
-3. Нажать кнопку `Try in out`
+3. Нажать кнопку `Try it out`
    ![2 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/2%20skrin.jpg)
 4. Ввести в поле вместо `srting` текст для перевода
    ![3 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/3%20skrin.jpg)
