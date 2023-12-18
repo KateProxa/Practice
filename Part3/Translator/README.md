@@ -31,4 +31,19 @@
 6. Cформировать POST запрос
 
     `curl -X 'POST' 'http://127.0.0.1:8000/predict/' -H 'Content-Type: application/json' -d '{"text": "Скоро будет зима"}'`
+
+---
+## Работа с API
+
+1. Открыть в браузере страницу с документацией `http://127.0.0.1:8000/docs`
+   ![1 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/1%20skrin.jpg)
+2. Открыть поле для ввода POST запроса
+3. Нажать кнопку `Try in out`
+   ![2 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/2%20skrin.jpg)
+4. Ввести в поле вместо `srting` текст для перевода
+   ![3 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/3%20skrin.jpg)
+5. Нажать кнопку `Execute`
+   ![4 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/4%20skrin.jpg)
+6. Готово! В поле ниже будет отображаться результат
+   ![5 Скриншот](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/img/5%20skrin.jpg)
    
