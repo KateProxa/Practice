@@ -30,6 +30,8 @@
     [Ссылка на приложение](https://github.com/KateProxa/Practice/blob/main/Part3/Translator/)
 
   * Практика 5
+
+    **Translator from ru to fr _application_ (API) tests**
 ___
 
 * Толстолуцкая Анастасия Васильевна
