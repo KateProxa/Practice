@@ -35,8 +35,8 @@
 ___
 
 * Толстолуцкая Анастасия Васильевна
-  
-  * [Практика 1](https://github.com/KateProxa/Practice/commit/c93580cc6c1cd5020fc89d58b806cee3ed16d1e6)
+
+  [Практическое задание №1](https://github.com/KateProxa/Practice/commit/c93580cc6c1cd5020fc89d58b806cee3ed16d1e6)
 ___
 
 * Телегинский Владислав Владиславович
