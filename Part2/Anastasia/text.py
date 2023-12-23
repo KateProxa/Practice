@@ -7,7 +7,7 @@ def load_model():
 translation = load_model()
 st.title('Translator to Deutch')
 st.write('Это приложение для перевода текста на немецкий язык')
-text = st.text_area('Введите текст для перевода', 'Скоро наступит Новый Год!')
+text = st.text_area('Введите текст для перевода на немецком языке'')
 result = st.button('Перевести')
 if result:
     tr_text = translation(text)
