@@ -36,10 +36,14 @@ ___
 
 * Толстолуцкая Анастасия Васильевна
 
-  [Практическое задание №1](https://github.com/KateProxa/Practice/commit/c93580cc6c1cd5020fc89d58b806cee3ed16d1e6)
+  [Практическое задание №1] https://github.com/KateProxa/Practice/commit/c93580cc6c1cd5020fc89d58b806cee3ed16d1e6)
+
   [Практическое задание №2](https://github.com/KateProxa/Practice/tree/main/Part2/Anastasia)
+  
   [Практическое задание №3]
+  
   [Практическое задание №4]
+  
   [Практическое задание №5]
 ___
 
