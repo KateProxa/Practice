@@ -48,14 +48,30 @@ ___
 ___
 
 * Телегинский Владислав Владиславович
-
+  
   * Практика 1
+    **Translator from en to ru _model_**
     
     [Блокнот](https://colab.research.google.com/drive/18xsqvgFn3sOICmgYadMmyC7JVG-sFdfq?usp=sharing)
-    
     [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-en-ru)
-
     [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Vlad.py)
+    
+  * Практика 2
+
+    **Translator from en to ru _application_ (Web)**
+    
+    [Описание приложения]
+
+  * Практика 3
+
+    **Translator from en to ru _application_ (API)**
+
+    [Описание приложения]
+    [Ссылка на приложение]
+
+  * Практика 5
+
+    **Translator from en to ru _application_ (API) tests**
 
 ___
 
