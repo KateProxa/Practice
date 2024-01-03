@@ -23,4 +23,3 @@ result = st.button('Перевести')
 if result:
     tr_text = translation(text)
     st.write("Перевод:", tr_text[0]['translation_text'])
-#    tr_text.clear()
