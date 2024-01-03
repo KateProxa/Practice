@@ -53,7 +53,7 @@ ___
   
     **Translator from en to ru _model_**
     
-    [Блокнот](https://colab.research.google.com/drive/18xsqvgFn3sOICmgYadMmyC7JVG-sFdfq?usp=sharing)
+    [Блокнот](https://colab.research.google.com/drive/18xsqvgFn3sOICmgYadMmyC7JVG-sFdfq?usp=sharing)\
     [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-en-ru)\
     [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Vlad.py)
     
