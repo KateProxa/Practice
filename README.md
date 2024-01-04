@@ -57,7 +57,7 @@ ___
     
   * [Практика 2](https://github.com/KateProxa/Practice/tree/main/Part2/Vladislav)
     
-  * [Практика 3]
+  * [Практика 3](https://github.com/KateProxa/Practice/tree/main/Part3/Vladislav)
 
   * [Практика 5]
 ___
