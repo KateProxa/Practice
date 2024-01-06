@@ -61,7 +61,7 @@ ___
 
   * [Практика 4](https://github.com/Vladius3/Part4)
 
-  * [Практика 5]
+  * [Практика 5](https://github.com/KateProxa/Practice/tree/main/Part5/Vladislav)
 ___
 
 * Спивак Дмитрий Вячеславович
