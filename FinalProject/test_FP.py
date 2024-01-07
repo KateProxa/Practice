@@ -6,4 +6,4 @@ def model(text):
 
 def test_1():
      assert model("I am student") == [{'translation_text': 'Ich bin Studentin'}]
-#URFU
+#URFU1
