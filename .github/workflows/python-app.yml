@@ -9,6 +9,10 @@ on:
     paths:
        - 'FinalProject/**'
 
+defaults:
+  run:
+    working-directory: FinalProject
+
 permissions:
   contents: read
 
