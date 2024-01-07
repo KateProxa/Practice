@@ -32,6 +32,8 @@
   * Практика 5
 
     **Translator from ru to fr _application_ (API) tests**
+
+    [Тесты](https://github.com/KateProxa/Practice/tree/main/Part5/Translator)
 ___
 
 * Толстолуцкая Анастасия Васильевна
