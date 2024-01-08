@@ -3,4 +3,5 @@ fastapi
 pydantic
 pytest
 httpx
-transformers
+transformers[torch]
+tensorflow
