@@ -5,3 +5,5 @@ pytest
 httpx
 transformers[torch]
 tensorflow
+sacremoses
+sentencepiece
