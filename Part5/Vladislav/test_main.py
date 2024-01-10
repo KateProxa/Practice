@@ -6,3 +6,4 @@ client = TestClient(app)
 def test_read_main():
     response = client.post("/predict/'")
     assert response.status_code == 200
+#URFU
