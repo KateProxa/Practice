@@ -7,11 +7,11 @@ on:
   push:
     branches: [ "main" ]
     paths:
-       - 'Part5/Translator/**'
+       - 'Part5/Vladislav/**'
     
 defaults:
   run:
-    working-directory: Part5/Translator
+    working-directory: Part5/Vladislav
 
 permissions:
   contents: read
