@@ -4,6 +4,6 @@ from main import app
 client = TestClient(app)
 
 def test_read_main():
-    response = client.post("/predict/'")
+    response = client.get("/predict/'")
     assert response.status_code == 200
 
