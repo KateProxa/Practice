@@ -67,3 +67,10 @@ ___
 ___
 
 * Спивак Дмитрий Вячеславович
+   * Практика 1 
+  
+    **Translator from ru to fr _model_**
+    
+    [Блокнот](https://colab.research.google.com/drive/1mNvXiqBhor8vo-Hxw9J9MBtgZcT1EoEY?authuser=2#scrollTo=vd9ZiAFg4TSI)  
+    [Описание модели](https://huggingface.co/Helsinki-NLP/opus-mt-ru-fr)\
+    [Файл модели](https://github.com/KateProxa/Practice/blob/main/Part1/Dima.py)
