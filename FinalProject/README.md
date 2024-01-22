@@ -2,7 +2,7 @@
 
 В рамках проекта было создано приложение-переводчик с английского языка на немецкий, используя модель [машинного обучения](https://huggingface.co/Helsinki-NLP/opus-mt-en-de)
 
-Приложение развернуто в [облаке](https://huggingface.co/spaces/KateProxa/translator)
+Приложение развернуто в [облаке](https://huggingface.co/spaces/KateProxa/translator).
 
 ## Состав команды (группа 2.3)
 - Прохорова Екатерина Сергеевна (РИМ-130963)
