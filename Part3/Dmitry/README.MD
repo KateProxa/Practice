@@ -1,5 +1,5 @@
 # Переводчик с французкого языка на русский (FASTAPI)
-Приложение создано с помощью модели "Helsinki-NLP/opus-mt-ru-fr", описание модели можно посмотреть, перейдя по следующей [ссылке](https://huggingface.co/Helsinki-NLP/opus-mt-en-ru).
+Приложение создано с помощью модели "Helsinki-NLP/opus-mt-ru-fr", описание модели можно посмотреть, перейдя по следующей [ссылке](https://huggingface.co/Helsinki-NLP/opus-mt-ru-fr).
 ## Начало работы
 1. Для начала работы нужно установить необходимые пакеты: "pip install -r requirements.txt";
 2. Щапустить приложение написав терминале следующую команду: "uvicorn translate:app";
