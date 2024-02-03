@@ -3,7 +3,7 @@ from transformers import pipeline
 from pydantic import BaseModel
 
 
-app = FastAPI
+app = FastAPI()
 
 
 class Item(BaseModel):
